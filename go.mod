@@ -1,4 +1,4 @@
-module metric-process-noc
+module github.com/GrooveCommunity/metric-process-noc
 
 go 1.16
 
